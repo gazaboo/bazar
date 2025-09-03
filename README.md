@@ -7,3 +7,4 @@ Attention : repo collaboratif
 Salut !!!!
 
 "coucou les datas Analyst" 
+En gros, globally !
